@@ -1,0 +1,7 @@
+docker-compose up -d
+Adminer: http://localhost:8080/
+swagger: http://localhost:3000/api-docs/
+npm install
+npm run migrate
+npm run start
+npm run test
